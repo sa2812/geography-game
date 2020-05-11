@@ -1,6 +1,7 @@
 [
     {
         "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Taj_Mahal_%28Edited%29.jpeg",
+        "question": "What is the name of this landmark?",
         "answer": "Taj Mahal",
         "options": ["Red Fort", "Houses of Parliament", "Shah Jahan Mosque"]
     }
